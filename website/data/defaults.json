@@ -1,0 +1,462 @@
+{
+  "site": {
+    "title": "Heisters",
+    "studio": "Rifted Games",
+    "siteType": "Official",
+    "status": "In Development",
+    "tagline": "[Add tagline here]",
+    "heroText": "The game is still in development.",
+    "heroImage": "assets/images/garage.webp",
+    "heroAlt": "User-supplied Heisters development screenshot showing a garage and a yellow car.",
+    "playLabel": "Play on Roblox",
+    "playUrl": "",
+    "comingSoon": "Coming Soon",
+    "communityLabel": "Discord",
+    "fundingLabel": "Funding / Development Place",
+    "footer": "Heisters \u00b7 Rifted Games \u00b7 Official website",
+    "navigation": [
+      {
+        "id": "home",
+        "label": "Home",
+        "visible": true
+      },
+      {
+        "id": "about",
+        "label": "About",
+        "visible": true
+      },
+      {
+        "id": "news",
+        "label": "Updates",
+        "visible": true
+      },
+      {
+        "id": "roadmap",
+        "label": "Roadmap",
+        "visible": true
+      },
+      {
+        "id": "community",
+        "label": "Community",
+        "visible": true
+      },
+      {
+        "id": "team",
+        "label": "Team",
+        "visible": true
+      },
+      {
+        "id": "report",
+        "label": "Reports",
+        "visible": true
+      },
+      {
+        "id": "credits",
+        "label": "Licenses",
+        "visible": true
+      }
+    ],
+    "seo": {
+      "description": "Official website for Heisters by Rifted Games. In Development.",
+      "baseUrl": "https://rithgow.github.io/heisters/",
+      "image": "assets/images/garage.webp",
+      "imageAlt": "User-supplied Heisters development screenshot showing a garage and a yellow car."
+    },
+    "repository": {
+      "owner": "rithgow",
+      "name": "heisters",
+      "branch": "main",
+      "sitePath": "website"
+    }
+  },
+  "pages": {
+    "home": {
+      "title": "Heisters",
+      "eyebrow": "Rifted Games",
+      "description": "The game is still in development."
+    },
+    "about": {
+      "title": "About the Game",
+      "eyebrow": "Heisters / Rifted Games",
+      "description": "[Add verified game description here]"
+    },
+    "news": {
+      "title": "Devlog / News / Updates",
+      "eyebrow": "In Development",
+      "description": "[Add development updates here]"
+    },
+    "roadmap": {
+      "title": "Roadmap",
+      "eyebrow": "In Development",
+      "description": "[Add approved roadmap summary here]"
+    },
+    "community": {
+      "title": "Community",
+      "eyebrow": "Heisters / Rifted Games",
+      "description": "[Add community description here]"
+    },
+    "team": {
+      "title": "Team / Credits",
+      "eyebrow": "Rifted Games",
+      "description": "[Add approved team description here]"
+    },
+    "report": {
+      "title": "Bug Report & Suggestions",
+      "eyebrow": "Heisters",
+      "description": "The form opens a draft GitHub Issue. Review it on GitHub before submitting."
+    },
+    "credits": {
+      "title": "Credits & Licenses",
+      "eyebrow": "Heisters / Rifted Games",
+      "description": "Fonts are self-hosted. No external icon set or runtime library is used."
+    },
+    "future": {
+      "title": "Coming Soon",
+      "eyebrow": "Heisters",
+      "description": "Coming soon"
+    },
+    "404": {
+      "title": "404",
+      "eyebrow": "Heisters",
+      "description": "Page not found."
+    }
+  },
+  "ui": {
+    "skip": "Skip to content",
+    "menu": "Menu",
+    "theme": "Light / dark theme",
+    "nav": "Main navigation",
+    "latest": "Latest updates",
+    "allUpdates": "All updates",
+    "all": "All",
+    "newsEmpty": "[Add first development update here]",
+    "roadmapEmpty": "[Add approved roadmap items here]",
+    "teamEmpty": "[Add team members and roles here]",
+    "gallery": "Development screenshots",
+    "galleryNote": "In Development",
+    "source": "Source",
+    "planned": "Planned",
+    "progress": "In Progress",
+    "done": "Done",
+    "issueType": "Report type",
+    "bug": "Bug Report",
+    "suggestion": "Suggestion",
+    "issueTitle": "Title",
+    "issueDetails": "Details",
+    "issueSteps": "Steps to reproduce / suggested change",
+    "issueExpected": "Expected result",
+    "issueActual": "Actual result",
+    "issueDevice": "Device / browser / Roblox client",
+    "issueSubmit": "Open GitHub Issue",
+    "issueNotice": "GitHub sign-in is required to submit. Do not include passwords, tokens, or personal information.",
+    "home": "Home",
+    "loadingError": "Content could not be loaded. Refresh the page or contact the team through Discord.",
+    "imagePlaceholder": "SCREENSHOT HERE 16:9",
+    "futureDisabled": "Coming soon",
+    "back": "Home",
+    "noLinks": "[Add community links here]",
+    "imageCredit": "User-supplied Heisters development screenshots.",
+    "websiteCredit": "Official website for Heisters by Rifted Games.",
+    "displayFont": "Display font",
+    "bodyFont": "Body font",
+    "license": "License",
+    "issueTooLong": "Please shorten the report before opening GitHub."
+  },
+  "news": {
+    "tags": [
+      "Announcement",
+      "Added",
+      "Changed",
+      "Fixed"
+    ],
+    "entries": []
+  },
+  "roadmap": {
+    "items": []
+  },
+  "team": {
+    "members": []
+  },
+  "links": {
+    "items": [
+      {
+        "label": "Heisters X",
+        "url": "https://x.com/HeistersGame"
+      },
+      {
+        "label": "Rifted Games X",
+        "url": "https://x.com/RiftedGames"
+      },
+      {
+        "label": "uwaisplayz X",
+        "url": "https://x.com/uwaisplayz"
+      },
+      {
+        "label": "Heisters YouTube",
+        "url": "https://www.youtube.com/c/HeistersGame"
+      },
+      {
+        "label": "Heisters Instagram",
+        "url": "https://www.instagram.com/heistersgame/"
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/9yhYMnBaQ5"
+      },
+      {
+        "label": "Roblox Group",
+        "url": "https://www.roblox.com/communities/5163443/RiftedGames#!/about"
+      },
+      {
+        "label": "Funding / Development Place",
+        "url": "https://www.roblox.com/games/11090114046/Heisters-Funding-Development"
+      }
+    ]
+  },
+  "media": {
+    "images": [
+      {
+        "src": "assets/images/winter.webp",
+        "alt": "User-supplied Heisters development screenshot of a snowy landscape.",
+        "caption": "In Development"
+      },
+      {
+        "src": "assets/images/streets.webp",
+        "alt": "User-supplied Heisters development screenshot of a road and trees.",
+        "caption": "In Development"
+      }
+    ]
+  },
+  "theme": {
+    "defaultMode": "dark",
+    "displayFont": "Anton",
+    "bodyFont": "Rubik",
+    "dark": {
+      "background": "#101214",
+      "surface": "#1b1e21",
+      "text": "#f6f3ea",
+      "muted": "#b9b9b3",
+      "accent": "#ffbb38",
+      "onAccent": "#101214",
+      "border": "#555a60",
+      "cyan": "#71d5e5"
+    },
+    "light": {
+      "background": "#f6f3ea",
+      "surface": "#ffffff",
+      "text": "#171a1d",
+      "muted": "#535859",
+      "accent": "#9b5100",
+      "onAccent": "#ffffff",
+      "border": "#757b7e",
+      "cyan": "#146777"
+    }
+  },
+  "licenses": {
+    "fonts": [
+      {
+        "name": "Anton",
+        "file": "assets/fonts/anton/Anton-Regular.ttf",
+        "license": "SIL Open Font License 1.1",
+        "licenseFile": "assets/fonts/anton/OFL.txt",
+        "source": "https://github.com/google/fonts/tree/main/ofl/anton"
+      },
+      {
+        "name": "Rubik",
+        "file": "assets/fonts/rubik/Rubik[wght].ttf",
+        "license": "SIL Open Font License 1.1",
+        "licenseFile": "assets/fonts/rubik/OFL.txt",
+        "source": "https://github.com/google/fonts/tree/main/ofl/rubik"
+      },
+      {
+        "name": "Bebas Neue",
+        "file": "assets/fonts/bebasneue/BebasNeue-Regular.ttf",
+        "license": "SIL Open Font License 1.1",
+        "licenseFile": "assets/fonts/bebasneue/OFL.txt",
+        "source": "https://github.com/google/fonts/tree/main/ofl/bebasneue"
+      },
+      {
+        "name": "Oswald",
+        "file": "assets/fonts/oswald/Oswald[wght].ttf",
+        "license": "SIL Open Font License 1.1",
+        "licenseFile": "assets/fonts/oswald/OFL.txt",
+        "source": "https://github.com/google/fonts/tree/main/ofl/oswald"
+      },
+      {
+        "name": "Russo One",
+        "file": "assets/fonts/russoone/RussoOne-Regular.ttf",
+        "license": "SIL Open Font License 1.1",
+        "licenseFile": "assets/fonts/russoone/OFL.txt",
+        "source": "https://github.com/google/fonts/tree/main/ofl/russoone"
+      },
+      {
+        "name": "Bungee",
+        "file": "assets/fonts/bungee/Bungee-Regular.ttf",
+        "license": "SIL Open Font License 1.1",
+        "licenseFile": "assets/fonts/bungee/OFL.txt",
+        "source": "https://github.com/google/fonts/tree/main/ofl/bungee"
+      },
+      {
+        "name": "Chakra Petch",
+        "file": "assets/fonts/chakrapetch/ChakraPetch-Regular.ttf",
+        "license": "SIL Open Font License 1.1",
+        "licenseFile": "assets/fonts/chakrapetch/OFL.txt",
+        "source": "https://github.com/google/fonts/tree/main/ofl/chakrapetch"
+      },
+      {
+        "name": "Teko",
+        "file": "assets/fonts/teko/Teko[wght].ttf",
+        "license": "SIL Open Font License 1.1",
+        "licenseFile": "assets/fonts/teko/OFL.txt",
+        "source": "https://github.com/google/fonts/tree/main/ofl/teko"
+      },
+      {
+        "name": "Barlow Condensed",
+        "file": "assets/fonts/barlowcondensed/BarlowCondensed-Regular.ttf",
+        "license": "SIL Open Font License 1.1",
+        "licenseFile": "assets/fonts/barlowcondensed/OFL.txt",
+        "source": "https://github.com/google/fonts/tree/main/ofl/barlowcondensed"
+      },
+      {
+        "name": "Archivo Black",
+        "file": "assets/fonts/archivoblack/ArchivoBlack-Regular.ttf",
+        "license": "SIL Open Font License 1.1",
+        "licenseFile": "assets/fonts/archivoblack/OFL.txt",
+        "source": "https://github.com/google/fonts/tree/main/ofl/archivoblack"
+      }
+    ],
+    "icons": "None. Interface uses text controls and hand-coded CSS shapes.",
+    "libraries": "None. Vanilla JavaScript, HTML and CSS.",
+    "assets": "User-supplied Heisters screenshots, cropped to remove interface overlays. No generated artwork."
+  },
+  "future": {
+    "features": [
+      {
+        "id": "vehicles",
+        "label": "Vehicles",
+        "enabled": false,
+        "title": "Vehicles",
+        "text": "Coming soon"
+      },
+      {
+        "id": "heists",
+        "label": "Heists / Missions",
+        "enabled": false,
+        "title": "Heists / Missions",
+        "text": "Coming soon"
+      },
+      {
+        "id": "maps",
+        "label": "Maps / Locations",
+        "enabled": false,
+        "title": "Maps / Locations",
+        "text": "Coming soon"
+      },
+      {
+        "id": "items",
+        "label": "Items & Tools",
+        "enabled": false,
+        "title": "Items & Tools",
+        "text": "Coming soon"
+      },
+      {
+        "id": "roles",
+        "label": "Roles / Teams",
+        "enabled": false,
+        "title": "Roles / Teams",
+        "text": "Coming soon"
+      },
+      {
+        "id": "glossary",
+        "label": "Glossary",
+        "enabled": false,
+        "title": "Glossary",
+        "text": "Coming soon"
+      },
+      {
+        "id": "search",
+        "label": "Global Search",
+        "enabled": false,
+        "title": "Global Search",
+        "text": "Coming soon"
+      },
+      {
+        "id": "compare",
+        "label": "Vehicle Compare",
+        "enabled": false,
+        "title": "Vehicle Compare",
+        "text": "Coming soon"
+      },
+      {
+        "id": "calculator",
+        "label": "Heist Loot / Payout Calculator",
+        "enabled": false,
+        "title": "Heist Loot / Payout Calculator",
+        "text": "Coming soon"
+      },
+      {
+        "id": "tools",
+        "label": "Player Tools",
+        "enabled": false,
+        "title": "Player Tools",
+        "text": "Coming soon"
+      },
+      {
+        "id": "faq",
+        "label": "FAQ",
+        "enabled": false,
+        "title": "FAQ",
+        "text": "Coming soon"
+      },
+      {
+        "id": "press",
+        "label": "Press / Media Kit",
+        "enabled": false,
+        "title": "Press / Media Kit",
+        "text": "Coming soon"
+      },
+      {
+        "id": "privacy",
+        "label": "Privacy",
+        "enabled": false,
+        "title": "Privacy",
+        "text": "Coming soon"
+      },
+      {
+        "id": "terms",
+        "label": "Terms",
+        "enabled": false,
+        "title": "Terms",
+        "text": "Coming soon"
+      },
+      {
+        "id": "official",
+        "label": "Official vs Community-run Statement",
+        "enabled": false,
+        "title": "Official vs Community-run Statement",
+        "text": "Coming soon"
+      },
+      {
+        "id": "social",
+        "label": "Embedded Social Feed",
+        "enabled": false,
+        "title": "Embedded Social Feed",
+        "text": "Coming soon"
+      },
+      {
+        "id": "print",
+        "label": "Print-friendly Wiki Pages",
+        "enabled": false,
+        "title": "Print-friendly Wiki Pages",
+        "text": "Coming soon"
+      },
+      {
+        "id": "breadcrumbs",
+        "label": "Breadcrumbs",
+        "enabled": false,
+        "title": "Breadcrumbs",
+        "text": "Coming soon"
+      }
+    ]
+  }
+}

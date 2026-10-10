@@ -1,0 +1,130 @@
+{
+  "features": [
+    {
+      "id": "vehicles",
+      "label": "Vehicles",
+      "enabled": false,
+      "title": "Vehicles",
+      "text": "Coming soon"
+    },
+    {
+      "id": "heists",
+      "label": "Heists / Missions",
+      "enabled": false,
+      "title": "Heists / Missions",
+      "text": "Coming soon"
+    },
+    {
+      "id": "maps",
+      "label": "Maps / Locations",
+      "enabled": false,
+      "title": "Maps / Locations",
+      "text": "Coming soon"
+    },
+    {
+      "id": "items",
+      "label": "Items & Tools",
+      "enabled": false,
+      "title": "Items & Tools",
+      "text": "Coming soon"
+    },
+    {
+      "id": "roles",
+      "label": "Roles / Teams",
+      "enabled": false,
+      "title": "Roles / Teams",
+      "text": "Coming soon"
+    },
+    {
+      "id": "glossary",
+      "label": "Glossary",
+      "enabled": false,
+      "title": "Glossary",
+      "text": "Coming soon"
+    },
+    {
+      "id": "search",
+      "label": "Global Search",
+      "enabled": false,
+      "title": "Global Search",
+      "text": "Coming soon"
+    },
+    {
+      "id": "compare",
+      "label": "Vehicle Compare",
+      "enabled": false,
+      "title": "Vehicle Compare",
+      "text": "Coming soon"
+    },
+    {
+      "id": "calculator",
+      "label": "Heist Loot / Payout Calculator",
+      "enabled": false,
+      "title": "Heist Loot / Payout Calculator",
+      "text": "Coming soon"
+    },
+    {
+      "id": "tools",
+      "label": "Player Tools",
+      "enabled": false,
+      "title": "Player Tools",
+      "text": "Coming soon"
+    },
+    {
+      "id": "faq",
+      "label": "FAQ",
+      "enabled": false,
+      "title": "FAQ",
+      "text": "Coming soon"
+    },
+    {
+      "id": "press",
+      "label": "Press / Media Kit",
+      "enabled": false,
+      "title": "Press / Media Kit",
+      "text": "Coming soon"
+    },
+    {
+      "id": "privacy",
+      "label": "Privacy",
+      "enabled": false,
+      "title": "Privacy",
+      "text": "Coming soon"
+    },
+    {
+      "id": "terms",
+      "label": "Terms",
+      "enabled": false,
+      "title": "Terms",
+      "text": "Coming soon"
+    },
+    {
+      "id": "official",
+      "label": "Official vs Community-run Statement",
+      "enabled": false,
+      "title": "Official vs Community-run Statement",
+      "text": "Coming soon"
+    },
+    {
+      "id": "social",
+      "label": "Embedded Social Feed",
+      "enabled": false,
+      "title": "Embedded Social Feed",
+      "text": "Coming soon"
+    },
+    {
+      "id": "print",
+      "label": "Print-friendly Wiki Pages",
+      "enabled": false,
+      "title": "Print-friendly Wiki Pages",
+      "text": "Coming soon"
+    },
+    {
+      "id": "breadcrumbs",
+      "label": "Breadcrumbs",
+      "enabled": false,
+      "title": "Breadcrumbs",
+      "text": "Coming soon"
+    }
+  ]
+}

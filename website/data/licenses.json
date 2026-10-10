@@ -1,0 +1,77 @@
+{
+  "fonts": [
+    {
+      "name": "Anton",
+      "file": "assets/fonts/anton/Anton-Regular.ttf",
+      "license": "SIL Open Font License 1.1",
+      "licenseFile": "assets/fonts/anton/OFL.txt",
+      "source": "https://github.com/google/fonts/tree/main/ofl/anton"
+    },
+    {
+      "name": "Rubik",
+      "file": "assets/fonts/rubik/Rubik[wght].ttf",
+      "license": "SIL Open Font License 1.1",
+      "licenseFile": "assets/fonts/rubik/OFL.txt",
+      "source": "https://github.com/google/fonts/tree/main/ofl/rubik"
+    },
+    {
+      "name": "Bebas Neue",
+      "file": "assets/fonts/bebasneue/BebasNeue-Regular.ttf",
+      "license": "SIL Open Font License 1.1",
+      "licenseFile": "assets/fonts/bebasneue/OFL.txt",
+      "source": "https://github.com/google/fonts/tree/main/ofl/bebasneue"
+    },
+    {
+      "name": "Oswald",
+      "file": "assets/fonts/oswald/Oswald[wght].ttf",
+      "license": "SIL Open Font License 1.1",
+      "licenseFile": "assets/fonts/oswald/OFL.txt",
+      "source": "https://github.com/google/fonts/tree/main/ofl/oswald"
+    },
+    {
+      "name": "Russo One",
+      "file": "assets/fonts/russoone/RussoOne-Regular.ttf",
+      "license": "SIL Open Font License 1.1",
+      "licenseFile": "assets/fonts/russoone/OFL.txt",
+      "source": "https://github.com/google/fonts/tree/main/ofl/russoone"
+    },
+    {
+      "name": "Bungee",
+      "file": "assets/fonts/bungee/Bungee-Regular.ttf",
+      "license": "SIL Open Font License 1.1",
+      "licenseFile": "assets/fonts/bungee/OFL.txt",
+      "source": "https://github.com/google/fonts/tree/main/ofl/bungee"
+    },
+    {
+      "name": "Chakra Petch",
+      "file": "assets/fonts/chakrapetch/ChakraPetch-Regular.ttf",
+      "license": "SIL Open Font License 1.1",
+      "licenseFile": "assets/fonts/chakrapetch/OFL.txt",
+      "source": "https://github.com/google/fonts/tree/main/ofl/chakrapetch"
+    },
+    {
+      "name": "Teko",
+      "file": "assets/fonts/teko/Teko[wght].ttf",
+      "license": "SIL Open Font License 1.1",
+      "licenseFile": "assets/fonts/teko/OFL.txt",
+      "source": "https://github.com/google/fonts/tree/main/ofl/teko"
+    },
+    {
+      "name": "Barlow Condensed",
+      "file": "assets/fonts/barlowcondensed/BarlowCondensed-Regular.ttf",
+      "license": "SIL Open Font License 1.1",
+      "licenseFile": "assets/fonts/barlowcondensed/OFL.txt",
+      "source": "https://github.com/google/fonts/tree/main/ofl/barlowcondensed"
+    },
+    {
+      "name": "Archivo Black",
+      "file": "assets/fonts/archivoblack/ArchivoBlack-Regular.ttf",
+      "license": "SIL Open Font License 1.1",
+      "licenseFile": "assets/fonts/archivoblack/OFL.txt",
+      "source": "https://github.com/google/fonts/tree/main/ofl/archivoblack"
+    }
+  ],
+  "icons": "None. Interface uses text controls and hand-coded CSS shapes.",
+  "libraries": "None. Vanilla JavaScript, HTML and CSS.",
+  "assets": "User-supplied Heisters screenshots, cropped to remove interface overlays. No generated artwork."
+}

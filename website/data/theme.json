@@ -1,0 +1,25 @@
+{
+  "defaultMode": "dark",
+  "displayFont": "Anton",
+  "bodyFont": "Rubik",
+  "dark": {
+    "background": "#101214",
+    "surface": "#1b1e21",
+    "text": "#f6f3ea",
+    "muted": "#b9b9b3",
+    "accent": "#ffbb38",
+    "onAccent": "#101214",
+    "border": "#555a60",
+    "cyan": "#71d5e5"
+  },
+  "light": {
+    "background": "#f6f3ea",
+    "surface": "#ffffff",
+    "text": "#171a1d",
+    "muted": "#535859",
+    "accent": "#9b5100",
+    "onAccent": "#ffffff",
+    "border": "#757b7e",
+    "cyan": "#146777"
+  }
+}

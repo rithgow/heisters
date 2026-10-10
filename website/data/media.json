@@ -1,0 +1,14 @@
+{
+  "images": [
+    {
+      "src": "assets/images/winter.webp",
+      "alt": "User-supplied Heisters development screenshot of a snowy landscape.",
+      "caption": "In Development"
+    },
+    {
+      "src": "assets/images/streets.webp",
+      "alt": "User-supplied Heisters development screenshot of a road and trees.",
+      "caption": "In Development"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "title": "Heisters",
+  "studio": "Rifted Games",
+  "siteType": "Official",
+  "status": "In Development",
+  "tagline": "[Add tagline here]",
+  "heroText": "The game is still in development.",
+  "heroImage": "assets/images/garage.webp",
+  "heroAlt": "User-supplied Heisters development screenshot showing a garage and a yellow car.",
+  "playLabel": "Play on Roblox",
+  "playUrl": "",
+  "comingSoon": "Coming Soon",
+  "communityLabel": "Discord",
+  "fundingLabel": "Funding / Development Place",
+  "footer": "Heisters \u00b7 Rifted Games \u00b7 Official website",
+  "navigation": [
+    {
+      "id": "home",
+      "label": "Home",
+      "visible": true
+    },
+    {
+      "id": "about",
+      "label": "About",
+      "visible": true
+    },
+    {
+      "id": "news",
+      "label": "Updates",
+      "visible": true
+    },
+    {
+      "id": "roadmap",
+      "label": "Roadmap",
+      "visible": true
+    },
+    {
+      "id": "community",
+      "label": "Community",
+      "visible": true
+    },
+    {
+      "id": "team",
+      "label": "Team",
+      "visible": true
+    },
+    {
+      "id": "report",
+      "label": "Reports",
+      "visible": true
+    },
+    {
+      "id": "credits",
+      "label": "Licenses",
+      "visible": true
+    }
+  ],
+  "seo": {
+    "description": "Official website for Heisters by Rifted Games. In Development.",
+    "baseUrl": "https://rithgow.github.io/heisters/",
+    "image": "assets/images/garage.webp",
+    "imageAlt": "User-supplied Heisters development screenshot showing a garage and a yellow car."
+  },
+  "repository": {
+    "owner": "rithgow",
+    "name": "heisters",
+    "branch": "main",
+    "sitePath": "website"
+  }
+}

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /heisters/admin/
+Sitemap: https://rithgow.github.io/heisters/sitemap.xml

@@ -1,0 +1,52 @@
+{
+  "home": {
+    "title": "Heisters",
+    "eyebrow": "Rifted Games",
+    "description": "The game is still in development."
+  },
+  "about": {
+    "title": "About the Game",
+    "eyebrow": "Heisters / Rifted Games",
+    "description": "[Add verified game description here]"
+  },
+  "news": {
+    "title": "Devlog / News / Updates",
+    "eyebrow": "In Development",
+    "description": "[Add development updates here]"
+  },
+  "roadmap": {
+    "title": "Roadmap",
+    "eyebrow": "In Development",
+    "description": "[Add approved roadmap summary here]"
+  },
+  "community": {
+    "title": "Community",
+    "eyebrow": "Heisters / Rifted Games",
+    "description": "[Add community description here]"
+  },
+  "team": {
+    "title": "Team / Credits",
+    "eyebrow": "Rifted Games",
+    "description": "[Add approved team description here]"
+  },
+  "report": {
+    "title": "Bug Report & Suggestions",
+    "eyebrow": "Heisters",
+    "description": "The form opens a draft GitHub Issue. Review it on GitHub before submitting."
+  },
+  "credits": {
+    "title": "Credits & Licenses",
+    "eyebrow": "Heisters / Rifted Games",
+    "description": "Fonts are self-hosted. No external icon set or runtime library is used."
+  },
+  "future": {
+    "title": "Coming Soon",
+    "eyebrow": "Heisters",
+    "description": "Coming soon"
+  },
+  "404": {
+    "title": "404",
+    "eyebrow": "Heisters",
+    "description": "Page not found."
+  }
+}
