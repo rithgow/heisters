@@ -55,7 +55,7 @@ git commit -m "Add Heisters development website"
 git push origin main
 ```
 
-No token is bundled. No changes were pushed to GitHub during preparation.
+No token is bundled. The website is already committed to this repository and published at https://rithgow.github.io/heisters/. These setup steps are retained for future checkouts or redeployment.
 
 ## 2. Enable GitHub Pages
 
@@ -186,7 +186,7 @@ npm run generate
 
 `generate` updates static metadata from JSON without starting a server. The admin does the same generation in the browser when committing. If you edit JSON manually, run `generate` and commit its updated HTML, robots and sitemap files too. Node and LinkeDOM are test/development dependencies only; nothing is loaded from a CDN at runtime.
 
-Before launch, visually inspect 360px, 768px and 1280px in your browser, keyboard navigation, light/dark themes, and the editor. Perform one token-backed save with a small legitimate change and confirm the Pages deployment. Those browser/live-service checks could not be performed in this execution environment; see `VALIDATION.md`.
+Before launch, visually inspect 360px, 768px and 1280px in your browser, keyboard navigation, light/dark themes, and the editor. Perform one admin token-backed save with a small legitimate change. The GitHub Pages workflow has been deployed successfully; visual layout checks and a real admin PAT save still require verification. See `VALIDATION.md`.
 
 ## Fonts, icons and libraries
 

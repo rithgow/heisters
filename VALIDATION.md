@@ -1,6 +1,6 @@
 # Validation and remaining checks
 
-The automated suite passes **27 tests** using Node's built-in test runner and LinkeDOM. No real token was used and no GitHub write occurred.
+The automated suite passes **27 tests** using Node's built-in test runner and LinkeDOM. Admin PAT saves were tested with mocked API responses. The website was subsequently committed through the connected GitHub account and published on GitHub Pages.
 
 Verified:
 
@@ -25,10 +25,10 @@ Verification limits:
 
 - CSS breakpoint rules for **360px, 768px and 1280px** were inspected and checked structurally. They have **not been rendered or visually measured in a real browser** here. The supported browser QA tool was unavailable in this managed environment.
 - DOM tests do not prove screen-reader behavior, actual CSS layout, iframe sandbox behavior, image decoding/canvas upload conversion, focus visibility, or font rendering. Check these on your devices before launch.
-- GitHub saving was tested against realistic mocked API responses, including concurrency failures. A **real PAT-backed save, protected-branch behavior and the live Pages workflow have not been exercised** here.
+- Admin saving was tested against realistic mocked API responses, including concurrency failures. A **real admin PAT-backed save and protected-branch behavior have not been exercised** here. The live Pages deployment workflow completed successfully.
 - Several supplied external sites blocked automated access. Their URL syntax matches the user brief, but invite validity, account availability and current destination content could not all be confirmed.
 - Personal-repository collaborators cannot currently assume their individual fine-grained tokens can contribute to this repository. The guide documents owner saving and draft export/import, plus the organization-member option for future independent team saving.
-- The site is **prepared for GitHub Pages, not published**. The package's guide contains the exact setup steps.
+- The site is published at **https://rithgow.github.io/heisters/**. Pages uses the GitHub Actions source, and deployment artifacts have unique names per run and attempt so retries cannot select older artifacts.
 
 Before launch:
 
